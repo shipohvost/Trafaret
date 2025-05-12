@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/viktor/Work/Code/Active/Trafaret/build/debug",
+  "command": "/usr/lib64/ccache/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/viktor/Work/Code/Active/Trafaret/inc -isystem /home/viktor/Work/Code/Active/Trafaret/build/debug/Trafaret_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib64/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -g -std=gnu++20 -fcolor-diagnostics -o CMakeFiles/Trafaret.dir/Trafaret_autogen/mocs_compilation.cpp.o -c /home/viktor/Work/Code/Active/Trafaret/build/debug/Trafaret_autogen/mocs_compilation.cpp",
+  "file": "/home/viktor/Work/Code/Active/Trafaret/build/debug/Trafaret_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/Trafaret.dir/Trafaret_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/viktor/Work/Code/Active/Trafaret/build/debug",
+  "command": "/usr/lib64/ccache/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/viktor/Work/Code/Active/Trafaret/inc -isystem /home/viktor/Work/Code/Active/Trafaret/build/debug/Trafaret_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib64/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -g -std=gnu++20 -fcolor-diagnostics -o CMakeFiles/Trafaret.dir/src/main.cpp.o -c /home/viktor/Work/Code/Active/Trafaret/src/main.cpp",
+  "file": "/home/viktor/Work/Code/Active/Trafaret/src/main.cpp",
+  "output": "CMakeFiles/Trafaret.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/viktor/Work/Code/Active/Trafaret/build/debug",
+  "command": "/usr/lib64/ccache/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/viktor/Work/Code/Active/Trafaret/inc -isystem /home/viktor/Work/Code/Active/Trafaret/build/debug/Trafaret_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib64/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -g -std=gnu++20 -fcolor-diagnostics -o CMakeFiles/Trafaret.dir/src/mainwindow.cpp.o -c /home/viktor/Work/Code/Active/Trafaret/src/mainwindow.cpp",
+  "file": "/home/viktor/Work/Code/Active/Trafaret/src/mainwindow.cpp",
+  "output": "CMakeFiles/Trafaret.dir/src/mainwindow.cpp.o"
+},
+{
+  "directory": "/home/viktor/Work/Code/Active/Trafaret/build/debug",
+  "command": "/usr/lib64/ccache/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/viktor/Work/Code/Active/Trafaret/inc -isystem /home/viktor/Work/Code/Active/Trafaret/build/debug/Trafaret_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib64/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -g -std=gnu++20 -fcolor-diagnostics -o CMakeFiles/Trafaret.dir/src/hexlineedit.cpp.o -c /home/viktor/Work/Code/Active/Trafaret/src/hexlineedit.cpp",
+  "file": "/home/viktor/Work/Code/Active/Trafaret/src/hexlineedit.cpp",
+  "output": "CMakeFiles/Trafaret.dir/src/hexlineedit.cpp.o"
+}
+]

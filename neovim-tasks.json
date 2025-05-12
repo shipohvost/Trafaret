@@ -1,0 +1,1 @@
+{"cargo":{"dap_name":"lldb"},"cmake":{"cmd":"cmake","args":{"configure":["-D","CMAKE_EXPORT_COMPILE_COMMANDS=1","-G","Ninja","-DCMAKE_CXX_COMPILER=clang++"]},"build_dir":"{cwd}\/build\/{build_type}","dap_name":"lldb","target":"Trafaret","build_type":"Debug"}}
